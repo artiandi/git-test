@@ -1,4 +1,1 @@
 just some text
--add
--commit
--push
